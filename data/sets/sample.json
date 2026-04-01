@@ -1,0 +1,49 @@
+{
+  "name": "sample",
+  "created": "2026-03-31",
+  "sentences": [
+    "我今天去超市买东西",
+    "她喜欢看书",
+    "你吃了吗？"
+  ],
+  "pinyin": [
+    "wǒ jīn tiān qù chāo shì mǎi dōng xi",
+    "tā xǐ huān kàn shū",
+    "nǐ chī le ma"
+  ],
+  "cards": [
+    {
+      "sentence": "我今天去超市买东西",
+      "characters": [
+        {"char": "我", "pinyin": "wǒ", "learned": true},
+        {"char": "今", "pinyin": "jīn", "learned": false},
+        {"char": "天", "pinyin": "tiān", "learned": false},
+        {"char": "去", "pinyin": "qù", "learned": false},
+        {"char": "超", "pinyin": "chāo", "learned": false},
+        {"char": "市", "pinyin": "shì", "learned": false},
+        {"char": "买", "pinyin": "mǎi", "learned": false},
+        {"char": "东", "pinyin": "dōng", "learned": false},
+        {"char": "西", "pinyin": "xi", "learned": false}
+      ]
+    },
+    {
+      "sentence": "她喜欢看书",
+      "characters": [
+        {"char": "她", "pinyin": "tā", "learned": true},
+        {"char": "喜", "pinyin": "xǐ", "learned": false},
+        {"char": "欢", "pinyin": "huān", "learned": false},
+        {"char": "看", "pinyin": "kàn", "learned": true},
+        {"char": "书", "pinyin": "shū", "learned": true}
+      ]
+    },
+    {
+      "sentence": "你吃了吗？",
+      "characters": [
+        {"char": "你", "pinyin": "nǐ", "learned": true},
+        {"char": "吃", "pinyin": "chī", "learned": true},
+        {"char": "了", "pinyin": "le", "learned": false},
+        {"char": "吗", "pinyin": "ma", "learned": false}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "sets": [
+    {
+      "name": "daily-life-30",
+      "file": "daily-life-30.json",
+      "created": "2026-03-31"
+    },
+    {
+      "name": "sample",
+      "file": "sample.json",
+      "created": "2026-03-31"
+    }
+  ]
+}

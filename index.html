@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chinese Flashcards</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- HOME VIEW -->
+  <div id="view-home" class="view">
+    <h1>Chinese Flashcards</h1>
+    <div class="home-actions">
+      <button id="btn-add-set" class="btn btn-primary">Add New Set</button>
+      <button id="btn-reparse-home" class="btn btn-secondary">Reparse All Sets</button>
+    </div>
+    <div id="set-list" class="set-list"></div>
+  </div>
+
+  <!-- STUDY VIEW -->
+  <div id="view-study" class="view hidden">
+    <div class="study-header">
+      <button id="btn-back-home-study" class="btn btn-small">Back</button>
+      <span id="progress" class="progress"></span>
+    </div>
+    <div id="card-display" class="card-display"></div>
+    <div class="study-controls">
+      <button id="btn-show-answer" class="btn btn-primary btn-large">Show Answer</button>
+      <div id="srs-buttons" class="srs-buttons hidden">
+        <button id="btn-again" class="btn btn-again">Again</button>
+        <button id="btn-good" class="btn btn-good">Good</button>
+        <button id="btn-easy" class="btn btn-easy">Easy</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ADD SET VIEW -->
+  <div id="view-addSet" class="view hidden">
+    <div class="add-header">
+      <button id="btn-back-home-add" class="btn btn-small">Back</button>
+      <h2>Add New Set</h2>
+    </div>
+    <div class="add-form">
+      <label for="set-name">Set Name</label>
+      <input type="text" id="set-name" placeholder="e.g. grocery-shopping">
+
+      <label for="llm-input">LLM JSON Output</label>
+      <textarea id="llm-input" rows="10" placeholder='{"sentences": ["..."], "pinyin": ["..."]}'></textarea>
+
+      <div class="add-actions">
+        <button id="btn-parse" class="btn btn-primary">Parse & Download</button>
+        <button id="btn-reparse" class="btn btn-secondary">Reparse All Sets</button>
+      </div>
+
+      <pre id="parse-output" class="parse-output"></pre>
+    </div>
+  </div>
+
+  <script src="js/data.js"></script>
+  <script src="js/parser.js"></script>
+  <script src="js/flashcard.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
