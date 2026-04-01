@@ -14,6 +14,10 @@ const App = {
     setList.innerHTML = '<p>Loading...</p>';
 
     try {
+      const learned = await loadLearnedCharacters();
+      document.getElementById('learned-count').textContent =
+        `${learned.size} characters learned`;
+
       const sets = await loadIndex();
       if (sets.length === 0) {
         setList.innerHTML = '<p class="empty-message">No flashcard sets yet. Add one to get started!</p>';
@@ -162,13 +166,11 @@ document.addEventListener('DOMContentLoaded', () => {
   App.initHome();
 
   document.getElementById('btn-add-set').addEventListener('click', () => App.showAddSet());
-  document.getElementById('btn-reparse-home').addEventListener('click', () => App.reparseAllSets());
   document.getElementById('btn-show-answer').addEventListener('click', () => App.revealAnswer());
   document.getElementById('btn-again').addEventListener('click', () => App.onSRS('again'));
   document.getElementById('btn-good').addEventListener('click', () => App.onSRS('good'));
   document.getElementById('btn-easy').addEventListener('click', () => App.onSRS('easy'));
   document.getElementById('btn-parse').addEventListener('click', () => App.parseAndDownload());
-  document.getElementById('btn-reparse').addEventListener('click', () => App.reparseAllSets());
   document.getElementById('btn-back-home-add').addEventListener('click', () => App.initHome());
   document.getElementById('btn-back-home-study').addEventListener('click', () => App.initHome());
 });

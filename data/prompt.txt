@@ -1,0 +1,24 @@
+Generate 15 simple Chinese sentences for reading practice. Use ONLY the characters listed below. You may use a few new characters (2-4 per sentence max) to make natural sentences — mark these as the learning targets.
+
+KNOWN CHARACTERS:
+[PASTE YOUR CHARACTERS HERE]
+
+Rules:
+- Each sentence should be 4-10 characters long
+- Use everyday, conversational topics (food, travel, school, family, weather, health, shopping, daily routines)
+- Prioritize using recently learned characters more frequently
+- Include punctuation where natural (？ for questions, etc.)
+- Mix sentence types: statements, questions, and suggestions
+
+Output your response in EXACTLY this JSON format (no other text):
+{
+  "sentences": ["sentence1", "sentence2", ...],
+  "pinyin": ["pīn yīn for sentence1", "pīn yīn for sentence2", ...]
+}
+
+PINYIN RULES:
+- Use accented vowels (ā á ǎ à, ē é ě è, ī í ǐ ì, ō ó ǒ ò, ū ú ǔ ù, ǖ ǘ ǚ ǜ)
+- Space-separate each syllable (one syllable per character)
+- Do NOT include pinyin for punctuation
+- Neutral tone has no accent mark (e.g. "ma" not "mǎ" for 吗)
+- Example: "你好吗？" → "nǐ hǎo ma"
