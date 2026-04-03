@@ -92,12 +92,12 @@
         {
           "char": "什",
           "pinyin": "shén",
-          "learned": false
+          "learned": true
         },
         {
           "char": "么",
           "pinyin": "me",
-          "learned": false
+          "learned": true
         },
         {
           "char": "菜",
@@ -152,7 +152,7 @@
         {
           "char": "体",
           "pinyin": "tǐ",
-          "learned": false
+          "learned": true
         }
       ]
     },
@@ -217,7 +217,7 @@
         {
           "char": "几",
           "pinyin": "jǐ",
-          "learned": false
+          "learned": true
         },
         {
           "char": "点",
@@ -347,7 +347,7 @@
         {
           "char": "个",
           "pinyin": "ge",
-          "learned": false
+          "learned": true
         },
         {
           "char": "东",
@@ -447,7 +447,7 @@
         {
           "char": "哪",
           "pinyin": "nǎ",
-          "learned": false
+          "learned": true
         },
         {
           "char": "里",
@@ -477,7 +477,7 @@
         {
           "char": "每",
           "pinyin": "měi",
-          "learned": false
+          "learned": true
         },
         {
           "char": "天",
