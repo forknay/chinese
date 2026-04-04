@@ -147,7 +147,7 @@
         {
           "char": "身",
           "pinyin": "shēn",
-          "learned": false
+          "learned": true
         },
         {
           "char": "体",
@@ -282,7 +282,7 @@
         {
           "char": "吧",
           "pinyin": "ba",
-          "learned": false
+          "learned": true
         }
       ]
     },
@@ -612,7 +612,7 @@
         {
           "char": "远",
           "pinyin": "yuǎn",
-          "learned": false
+          "learned": true
         },
         {
           "char": "吗",
