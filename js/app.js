@@ -173,4 +173,18 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('btn-parse').addEventListener('click', () => App.parseAndDownload());
   document.getElementById('btn-back-home-add').addEventListener('click', () => App.initHome());
   document.getElementById('btn-back-home-study').addEventListener('click', () => App.initHome());
+
+  document.addEventListener('keydown', (e) => {
+    if (App.currentView !== 'study' || SRS.isDone()) return;
+    if (['Space', 'ArrowUp', 'ArrowDown', 'ArrowLeft', 'ArrowRight'].includes(e.code)) {
+      e.preventDefault();
+    }
+    if (!App.showAnswer) {
+      if (e.code === 'Space' || e.code === 'ArrowUp') App.revealAnswer();
+    } else {
+      if (e.code === 'ArrowRight') App.onSRS('easy');
+      else if (e.code === 'ArrowDown') App.onSRS('good');
+      else if (e.code === 'ArrowLeft') App.onSRS('again');
+    }
+  });
 });
