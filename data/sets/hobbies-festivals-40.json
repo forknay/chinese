@@ -1,0 +1,1720 @@
+{
+  "name": "hobbies-festivals-40",
+  "created": "2026-04-24",
+  "sentences": [
+    "我喜欢听音乐。",
+    "她今天去看电影。",
+    "我们一起唱歌吧！",
+    "他很喜欢打篮球。",
+    "你会跳舞吗？",
+    "我想去游泳。",
+    "春节的时候我们很开心。",
+    "他画画很好看。",
+    "我每天都锻炼身体。",
+    "你喜欢什么运动？",
+    "我们去玩社交游戏吧。",
+    "中秋节我们吃月饼。",
+    "她喜欢摄影和画画。",
+    "我希望学会跳舞。",
+    "他计划去游泳馆。",
+    "我们一起去看电影吗？",
+    "她唱歌很好听。",
+    "我喜欢步行上班。",
+    "元宵节很热闹。",
+    "你会打篮球吗？",
+    "我期待春节放假。",
+    "他喜欢听音乐放松。",
+    "我们一起运动吧！",
+    "她计划学摄影。",
+    "端午节我们吃粽子。",
+    "我每天早上跑步。",
+    "你喜欢看什么影？",
+    "我们去唱歌吧！",
+    "他希望去游泳。",
+    "我觉得跳舞很难。",
+    "她喜欢玩社交游戏。",
+    "我建议你去锻炼。",
+    "春节我们一家人在一起。",
+    "他每天听音乐学习。",
+    "我喜欢摄影和旅行。",
+    "你期待中秋节吗？",
+    "我们一起玩吧！",
+    "她喜欢画和音乐。",
+    "元宵节我们看花灯。",
+    "我计划学打篮球。"
+  ],
+  "pinyin": [
+    "wǒ xǐ huān tīng yīn yuè",
+    "tā jīn tiān qù kàn diàn yǐng",
+    "wǒ men yì qǐ chàng gē ba",
+    "tā hěn xǐ huān dǎ lán qiú",
+    "nǐ huì tiào wǔ ma",
+    "wǒ xiǎng qù yóu yǒng",
+    "chūn jié de shí hòu wǒ men hěn kāi xīn",
+    "tā huà huà hěn hǎo kàn",
+    "wǒ měi tiān dōu duàn liàn shēn tǐ",
+    "nǐ xǐ huān shén me yùn dòng",
+    "wǒ men qù wán shè jiāo yóu xì ba",
+    "zhōng qiū jié wǒ men chī yuè bǐng",
+    "tā xǐ huān shè yǐng hé huà huà",
+    "wǒ xī wàng xué huì tiào wǔ",
+    "tā jì huà qù yóu yǒng guǎn",
+    "wǒ men yì qǐ qù kàn diàn yǐng ma",
+    "tā chàng gē hěn hǎo tīng",
+    "wǒ xǐ huān bù xíng shàng bān",
+    "yuán xiāo jié hěn rè nào",
+    "nǐ huì dǎ lán qiú ma",
+    "wǒ qī dài chūn jié fàng jià",
+    "tā xǐ huān tīng yīn yuè fàng sōng",
+    "wǒ men yì qǐ yùn dòng ba",
+    "tā jì huà xué shè yǐng",
+    "duān wǔ jié wǒ men chī zòng zi",
+    "wǒ měi tiān zǎo shàng pǎo bù",
+    "nǐ xǐ huān kàn shén me yǐng",
+    "wǒ men qù chàng gē ba",
+    "tā xī wàng qù yóu yǒng",
+    "wǒ jué de tiào wǔ hěn nán",
+    "tā xǐ huān wán shè jiāo yóu xì",
+    "wǒ jiàn yì nǐ qù duàn liàn",
+    "chūn jié wǒ men yì jiā rén zài yì qǐ",
+    "tā měi tiān tīng yīn yuè xué xí",
+    "wǒ xǐ huān shè yǐng hé lǚ xíng",
+    "nǐ qī dài zhōng qiū jié ma",
+    "wǒ men yì qǐ wán ba",
+    "tā xǐ huān huà hé yīn yuè",
+    "yuán xiāo jié wǒ men kàn huā dēng",
+    "wǒ jì huà xué dǎ lán qiú"
+  ],
+  "cards": [
+    {
+      "sentence": "我喜欢听音乐。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "喜",
+          "pinyin": "xǐ",
+          "learned": true
+        },
+        {
+          "char": "欢",
+          "pinyin": "huān",
+          "learned": true
+        },
+        {
+          "char": "听",
+          "pinyin": "tīng",
+          "learned": true
+        },
+        {
+          "char": "音",
+          "pinyin": "yīn",
+          "learned": true
+        },
+        {
+          "char": "乐",
+          "pinyin": "yuè",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "她今天去看电影。",
+      "characters": [
+        {
+          "char": "她",
+          "pinyin": "tā",
+          "learned": true
+        },
+        {
+          "char": "今",
+          "pinyin": "jīn",
+          "learned": true
+        },
+        {
+          "char": "天",
+          "pinyin": "tiān",
+          "learned": true
+        },
+        {
+          "char": "去",
+          "pinyin": "qù",
+          "learned": true
+        },
+        {
+          "char": "看",
+          "pinyin": "kàn",
+          "learned": true
+        },
+        {
+          "char": "电",
+          "pinyin": "diàn",
+          "learned": true
+        },
+        {
+          "char": "影",
+          "pinyin": "yǐng",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我们一起唱歌吧！",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "一",
+          "pinyin": "yì",
+          "learned": true
+        },
+        {
+          "char": "起",
+          "pinyin": "qǐ",
+          "learned": true
+        },
+        {
+          "char": "唱",
+          "pinyin": "chàng",
+          "learned": true
+        },
+        {
+          "char": "歌",
+          "pinyin": "gē",
+          "learned": true
+        },
+        {
+          "char": "吧",
+          "pinyin": "ba",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "他很喜欢打篮球。",
+      "characters": [
+        {
+          "char": "他",
+          "pinyin": "tā",
+          "learned": true
+        },
+        {
+          "char": "很",
+          "pinyin": "hěn",
+          "learned": true
+        },
+        {
+          "char": "喜",
+          "pinyin": "xǐ",
+          "learned": true
+        },
+        {
+          "char": "欢",
+          "pinyin": "huān",
+          "learned": true
+        },
+        {
+          "char": "打",
+          "pinyin": "dǎ",
+          "learned": true
+        },
+        {
+          "char": "篮",
+          "pinyin": "lán",
+          "learned": true
+        },
+        {
+          "char": "球",
+          "pinyin": "qiú",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "你会跳舞吗？",
+      "characters": [
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "learned": true
+        },
+        {
+          "char": "会",
+          "pinyin": "huì",
+          "learned": true
+        },
+        {
+          "char": "跳",
+          "pinyin": "tiào",
+          "learned": true
+        },
+        {
+          "char": "舞",
+          "pinyin": "wǔ",
+          "learned": true
+        },
+        {
+          "char": "吗",
+          "pinyin": "ma",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我想去游泳。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "想",
+          "pinyin": "xiǎng",
+          "learned": true
+        },
+        {
+          "char": "去",
+          "pinyin": "qù",
+          "learned": true
+        },
+        {
+          "char": "游",
+          "pinyin": "yóu",
+          "learned": true
+        },
+        {
+          "char": "泳",
+          "pinyin": "yǒng",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "春节的时候我们很开心。",
+      "characters": [
+        {
+          "char": "春",
+          "pinyin": "chūn",
+          "learned": true
+        },
+        {
+          "char": "节",
+          "pinyin": "jié",
+          "learned": true
+        },
+        {
+          "char": "的",
+          "pinyin": "de",
+          "learned": true
+        },
+        {
+          "char": "时",
+          "pinyin": "shí",
+          "learned": true
+        },
+        {
+          "char": "候",
+          "pinyin": "hòu",
+          "learned": true
+        },
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "很",
+          "pinyin": "hěn",
+          "learned": true
+        },
+        {
+          "char": "开",
+          "pinyin": "kāi",
+          "learned": true
+        },
+        {
+          "char": "心",
+          "pinyin": "xīn",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "他画画很好看。",
+      "characters": [
+        {
+          "char": "他",
+          "pinyin": "tā",
+          "learned": true
+        },
+        {
+          "char": "画",
+          "pinyin": "huà",
+          "learned": true
+        },
+        {
+          "char": "画",
+          "pinyin": "huà",
+          "learned": true
+        },
+        {
+          "char": "很",
+          "pinyin": "hěn",
+          "learned": true
+        },
+        {
+          "char": "好",
+          "pinyin": "hǎo",
+          "learned": true
+        },
+        {
+          "char": "看",
+          "pinyin": "kàn",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我每天都锻炼身体。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "每",
+          "pinyin": "měi",
+          "learned": true
+        },
+        {
+          "char": "天",
+          "pinyin": "tiān",
+          "learned": true
+        },
+        {
+          "char": "都",
+          "pinyin": "dōu",
+          "learned": false
+        },
+        {
+          "char": "锻",
+          "pinyin": "duàn",
+          "learned": true
+        },
+        {
+          "char": "炼",
+          "pinyin": "liàn",
+          "learned": true
+        },
+        {
+          "char": "身",
+          "pinyin": "shēn",
+          "learned": true
+        },
+        {
+          "char": "体",
+          "pinyin": "tǐ",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "你喜欢什么运动？",
+      "characters": [
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "learned": true
+        },
+        {
+          "char": "喜",
+          "pinyin": "xǐ",
+          "learned": true
+        },
+        {
+          "char": "欢",
+          "pinyin": "huān",
+          "learned": true
+        },
+        {
+          "char": "什",
+          "pinyin": "shén",
+          "learned": true
+        },
+        {
+          "char": "么",
+          "pinyin": "me",
+          "learned": true
+        },
+        {
+          "char": "运",
+          "pinyin": "yùn",
+          "learned": true
+        },
+        {
+          "char": "动",
+          "pinyin": "dòng",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我们去玩社交游戏吧。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "去",
+          "pinyin": "qù",
+          "learned": true
+        },
+        {
+          "char": "玩",
+          "pinyin": "wán",
+          "learned": true
+        },
+        {
+          "char": "社",
+          "pinyin": "shè",
+          "learned": true
+        },
+        {
+          "char": "交",
+          "pinyin": "jiāo",
+          "learned": true
+        },
+        {
+          "char": "游",
+          "pinyin": "yóu",
+          "learned": true
+        },
+        {
+          "char": "戏",
+          "pinyin": "xì",
+          "learned": true
+        },
+        {
+          "char": "吧",
+          "pinyin": "ba",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "中秋节我们吃月饼。",
+      "characters": [
+        {
+          "char": "中",
+          "pinyin": "zhōng",
+          "learned": true
+        },
+        {
+          "char": "秋",
+          "pinyin": "qiū",
+          "learned": true
+        },
+        {
+          "char": "节",
+          "pinyin": "jié",
+          "learned": true
+        },
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "吃",
+          "pinyin": "chī",
+          "learned": true
+        },
+        {
+          "char": "月",
+          "pinyin": "yuè",
+          "learned": true
+        },
+        {
+          "char": "饼",
+          "pinyin": "bǐng",
+          "learned": false
+        }
+      ]
+    },
+    {
+      "sentence": "她喜欢摄影和画画。",
+      "characters": [
+        {
+          "char": "她",
+          "pinyin": "tā",
+          "learned": true
+        },
+        {
+          "char": "喜",
+          "pinyin": "xǐ",
+          "learned": true
+        },
+        {
+          "char": "欢",
+          "pinyin": "huān",
+          "learned": true
+        },
+        {
+          "char": "摄",
+          "pinyin": "shè",
+          "learned": true
+        },
+        {
+          "char": "影",
+          "pinyin": "yǐng",
+          "learned": true
+        },
+        {
+          "char": "和",
+          "pinyin": "hé",
+          "learned": true
+        },
+        {
+          "char": "画",
+          "pinyin": "huà",
+          "learned": true
+        },
+        {
+          "char": "画",
+          "pinyin": "huà",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我希望学会跳舞。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "希",
+          "pinyin": "xī",
+          "learned": true
+        },
+        {
+          "char": "望",
+          "pinyin": "wàng",
+          "learned": true
+        },
+        {
+          "char": "学",
+          "pinyin": "xué",
+          "learned": true
+        },
+        {
+          "char": "会",
+          "pinyin": "huì",
+          "learned": true
+        },
+        {
+          "char": "跳",
+          "pinyin": "tiào",
+          "learned": true
+        },
+        {
+          "char": "舞",
+          "pinyin": "wǔ",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "他计划去游泳馆。",
+      "characters": [
+        {
+          "char": "他",
+          "pinyin": "tā",
+          "learned": true
+        },
+        {
+          "char": "计",
+          "pinyin": "jì",
+          "learned": true
+        },
+        {
+          "char": "划",
+          "pinyin": "huà",
+          "learned": true
+        },
+        {
+          "char": "去",
+          "pinyin": "qù",
+          "learned": true
+        },
+        {
+          "char": "游",
+          "pinyin": "yóu",
+          "learned": true
+        },
+        {
+          "char": "泳",
+          "pinyin": "yǒng",
+          "learned": true
+        },
+        {
+          "char": "馆",
+          "pinyin": "guǎn",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我们一起去看电影吗？",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "一",
+          "pinyin": "yì",
+          "learned": true
+        },
+        {
+          "char": "起",
+          "pinyin": "qǐ",
+          "learned": true
+        },
+        {
+          "char": "去",
+          "pinyin": "qù",
+          "learned": true
+        },
+        {
+          "char": "看",
+          "pinyin": "kàn",
+          "learned": true
+        },
+        {
+          "char": "电",
+          "pinyin": "diàn",
+          "learned": true
+        },
+        {
+          "char": "影",
+          "pinyin": "yǐng",
+          "learned": true
+        },
+        {
+          "char": "吗",
+          "pinyin": "ma",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "她唱歌很好听。",
+      "characters": [
+        {
+          "char": "她",
+          "pinyin": "tā",
+          "learned": true
+        },
+        {
+          "char": "唱",
+          "pinyin": "chàng",
+          "learned": true
+        },
+        {
+          "char": "歌",
+          "pinyin": "gē",
+          "learned": true
+        },
+        {
+          "char": "很",
+          "pinyin": "hěn",
+          "learned": true
+        },
+        {
+          "char": "好",
+          "pinyin": "hǎo",
+          "learned": true
+        },
+        {
+          "char": "听",
+          "pinyin": "tīng",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我喜欢步行上班。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "喜",
+          "pinyin": "xǐ",
+          "learned": true
+        },
+        {
+          "char": "欢",
+          "pinyin": "huān",
+          "learned": true
+        },
+        {
+          "char": "步",
+          "pinyin": "bù",
+          "learned": true
+        },
+        {
+          "char": "行",
+          "pinyin": "xíng",
+          "learned": true
+        },
+        {
+          "char": "上",
+          "pinyin": "shàng",
+          "learned": true
+        },
+        {
+          "char": "班",
+          "pinyin": "bān",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "元宵节很热闹。",
+      "characters": [
+        {
+          "char": "元",
+          "pinyin": "yuán",
+          "learned": true
+        },
+        {
+          "char": "宵",
+          "pinyin": "xiāo",
+          "learned": true
+        },
+        {
+          "char": "节",
+          "pinyin": "jié",
+          "learned": true
+        },
+        {
+          "char": "很",
+          "pinyin": "hěn",
+          "learned": true
+        },
+        {
+          "char": "热",
+          "pinyin": "rè",
+          "learned": true
+        },
+        {
+          "char": "闹",
+          "pinyin": "nào",
+          "learned": false
+        }
+      ]
+    },
+    {
+      "sentence": "你会打篮球吗？",
+      "characters": [
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "learned": true
+        },
+        {
+          "char": "会",
+          "pinyin": "huì",
+          "learned": true
+        },
+        {
+          "char": "打",
+          "pinyin": "dǎ",
+          "learned": true
+        },
+        {
+          "char": "篮",
+          "pinyin": "lán",
+          "learned": true
+        },
+        {
+          "char": "球",
+          "pinyin": "qiú",
+          "learned": true
+        },
+        {
+          "char": "吗",
+          "pinyin": "ma",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我期待春节放假。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "期",
+          "pinyin": "qī",
+          "learned": true
+        },
+        {
+          "char": "待",
+          "pinyin": "dài",
+          "learned": true
+        },
+        {
+          "char": "春",
+          "pinyin": "chūn",
+          "learned": true
+        },
+        {
+          "char": "节",
+          "pinyin": "jié",
+          "learned": true
+        },
+        {
+          "char": "放",
+          "pinyin": "fàng",
+          "learned": true
+        },
+        {
+          "char": "假",
+          "pinyin": "jià",
+          "learned": false
+        }
+      ]
+    },
+    {
+      "sentence": "他喜欢听音乐放松。",
+      "characters": [
+        {
+          "char": "他",
+          "pinyin": "tā",
+          "learned": true
+        },
+        {
+          "char": "喜",
+          "pinyin": "xǐ",
+          "learned": true
+        },
+        {
+          "char": "欢",
+          "pinyin": "huān",
+          "learned": true
+        },
+        {
+          "char": "听",
+          "pinyin": "tīng",
+          "learned": true
+        },
+        {
+          "char": "音",
+          "pinyin": "yīn",
+          "learned": true
+        },
+        {
+          "char": "乐",
+          "pinyin": "yuè",
+          "learned": true
+        },
+        {
+          "char": "放",
+          "pinyin": "fàng",
+          "learned": true
+        },
+        {
+          "char": "松",
+          "pinyin": "sōng",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我们一起运动吧！",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "一",
+          "pinyin": "yì",
+          "learned": true
+        },
+        {
+          "char": "起",
+          "pinyin": "qǐ",
+          "learned": true
+        },
+        {
+          "char": "运",
+          "pinyin": "yùn",
+          "learned": true
+        },
+        {
+          "char": "动",
+          "pinyin": "dòng",
+          "learned": true
+        },
+        {
+          "char": "吧",
+          "pinyin": "ba",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "她计划学摄影。",
+      "characters": [
+        {
+          "char": "她",
+          "pinyin": "tā",
+          "learned": true
+        },
+        {
+          "char": "计",
+          "pinyin": "jì",
+          "learned": true
+        },
+        {
+          "char": "划",
+          "pinyin": "huà",
+          "learned": true
+        },
+        {
+          "char": "学",
+          "pinyin": "xué",
+          "learned": true
+        },
+        {
+          "char": "摄",
+          "pinyin": "shè",
+          "learned": true
+        },
+        {
+          "char": "影",
+          "pinyin": "yǐng",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "端午节我们吃粽子。",
+      "characters": [
+        {
+          "char": "端",
+          "pinyin": "duān",
+          "learned": true
+        },
+        {
+          "char": "午",
+          "pinyin": "wǔ",
+          "learned": true
+        },
+        {
+          "char": "节",
+          "pinyin": "jié",
+          "learned": true
+        },
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "吃",
+          "pinyin": "chī",
+          "learned": true
+        },
+        {
+          "char": "粽",
+          "pinyin": "zòng",
+          "learned": false
+        },
+        {
+          "char": "子",
+          "pinyin": "zi",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我每天早上跑步。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "每",
+          "pinyin": "měi",
+          "learned": true
+        },
+        {
+          "char": "天",
+          "pinyin": "tiān",
+          "learned": true
+        },
+        {
+          "char": "早",
+          "pinyin": "zǎo",
+          "learned": true
+        },
+        {
+          "char": "上",
+          "pinyin": "shàng",
+          "learned": true
+        },
+        {
+          "char": "跑",
+          "pinyin": "pǎo",
+          "learned": true
+        },
+        {
+          "char": "步",
+          "pinyin": "bù",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "你喜欢看什么影？",
+      "characters": [
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "learned": true
+        },
+        {
+          "char": "喜",
+          "pinyin": "xǐ",
+          "learned": true
+        },
+        {
+          "char": "欢",
+          "pinyin": "huān",
+          "learned": true
+        },
+        {
+          "char": "看",
+          "pinyin": "kàn",
+          "learned": true
+        },
+        {
+          "char": "什",
+          "pinyin": "shén",
+          "learned": true
+        },
+        {
+          "char": "么",
+          "pinyin": "me",
+          "learned": true
+        },
+        {
+          "char": "影",
+          "pinyin": "yǐng",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我们去唱歌吧！",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "去",
+          "pinyin": "qù",
+          "learned": true
+        },
+        {
+          "char": "唱",
+          "pinyin": "chàng",
+          "learned": true
+        },
+        {
+          "char": "歌",
+          "pinyin": "gē",
+          "learned": true
+        },
+        {
+          "char": "吧",
+          "pinyin": "ba",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "他希望去游泳。",
+      "characters": [
+        {
+          "char": "他",
+          "pinyin": "tā",
+          "learned": true
+        },
+        {
+          "char": "希",
+          "pinyin": "xī",
+          "learned": true
+        },
+        {
+          "char": "望",
+          "pinyin": "wàng",
+          "learned": true
+        },
+        {
+          "char": "去",
+          "pinyin": "qù",
+          "learned": true
+        },
+        {
+          "char": "游",
+          "pinyin": "yóu",
+          "learned": true
+        },
+        {
+          "char": "泳",
+          "pinyin": "yǒng",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我觉得跳舞很难。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "觉",
+          "pinyin": "jué",
+          "learned": true
+        },
+        {
+          "char": "得",
+          "pinyin": "de",
+          "learned": true
+        },
+        {
+          "char": "跳",
+          "pinyin": "tiào",
+          "learned": true
+        },
+        {
+          "char": "舞",
+          "pinyin": "wǔ",
+          "learned": true
+        },
+        {
+          "char": "很",
+          "pinyin": "hěn",
+          "learned": true
+        },
+        {
+          "char": "难",
+          "pinyin": "nán",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "她喜欢玩社交游戏。",
+      "characters": [
+        {
+          "char": "她",
+          "pinyin": "tā",
+          "learned": true
+        },
+        {
+          "char": "喜",
+          "pinyin": "xǐ",
+          "learned": true
+        },
+        {
+          "char": "欢",
+          "pinyin": "huān",
+          "learned": true
+        },
+        {
+          "char": "玩",
+          "pinyin": "wán",
+          "learned": true
+        },
+        {
+          "char": "社",
+          "pinyin": "shè",
+          "learned": true
+        },
+        {
+          "char": "交",
+          "pinyin": "jiāo",
+          "learned": true
+        },
+        {
+          "char": "游",
+          "pinyin": "yóu",
+          "learned": true
+        },
+        {
+          "char": "戏",
+          "pinyin": "xì",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我建议你去锻炼。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "建",
+          "pinyin": "jiàn",
+          "learned": true
+        },
+        {
+          "char": "议",
+          "pinyin": "yì",
+          "learned": true
+        },
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "learned": true
+        },
+        {
+          "char": "去",
+          "pinyin": "qù",
+          "learned": true
+        },
+        {
+          "char": "锻",
+          "pinyin": "duàn",
+          "learned": true
+        },
+        {
+          "char": "炼",
+          "pinyin": "liàn",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "春节我们一家人在一起。",
+      "characters": [
+        {
+          "char": "春",
+          "pinyin": "chūn",
+          "learned": true
+        },
+        {
+          "char": "节",
+          "pinyin": "jié",
+          "learned": true
+        },
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "一",
+          "pinyin": "yì",
+          "learned": true
+        },
+        {
+          "char": "家",
+          "pinyin": "jiā",
+          "learned": true
+        },
+        {
+          "char": "人",
+          "pinyin": "rén",
+          "learned": true
+        },
+        {
+          "char": "在",
+          "pinyin": "zài",
+          "learned": true
+        },
+        {
+          "char": "一",
+          "pinyin": "yì",
+          "learned": true
+        },
+        {
+          "char": "起",
+          "pinyin": "qǐ",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "他每天听音乐学习。",
+      "characters": [
+        {
+          "char": "他",
+          "pinyin": "tā",
+          "learned": true
+        },
+        {
+          "char": "每",
+          "pinyin": "měi",
+          "learned": true
+        },
+        {
+          "char": "天",
+          "pinyin": "tiān",
+          "learned": true
+        },
+        {
+          "char": "听",
+          "pinyin": "tīng",
+          "learned": true
+        },
+        {
+          "char": "音",
+          "pinyin": "yīn",
+          "learned": true
+        },
+        {
+          "char": "乐",
+          "pinyin": "yuè",
+          "learned": true
+        },
+        {
+          "char": "学",
+          "pinyin": "xué",
+          "learned": true
+        },
+        {
+          "char": "习",
+          "pinyin": "xí",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我喜欢摄影和旅行。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "喜",
+          "pinyin": "xǐ",
+          "learned": true
+        },
+        {
+          "char": "欢",
+          "pinyin": "huān",
+          "learned": true
+        },
+        {
+          "char": "摄",
+          "pinyin": "shè",
+          "learned": true
+        },
+        {
+          "char": "影",
+          "pinyin": "yǐng",
+          "learned": true
+        },
+        {
+          "char": "和",
+          "pinyin": "hé",
+          "learned": true
+        },
+        {
+          "char": "旅",
+          "pinyin": "lǚ",
+          "learned": true
+        },
+        {
+          "char": "行",
+          "pinyin": "xíng",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "你期待中秋节吗？",
+      "characters": [
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "learned": true
+        },
+        {
+          "char": "期",
+          "pinyin": "qī",
+          "learned": true
+        },
+        {
+          "char": "待",
+          "pinyin": "dài",
+          "learned": true
+        },
+        {
+          "char": "中",
+          "pinyin": "zhōng",
+          "learned": true
+        },
+        {
+          "char": "秋",
+          "pinyin": "qiū",
+          "learned": true
+        },
+        {
+          "char": "节",
+          "pinyin": "jié",
+          "learned": true
+        },
+        {
+          "char": "吗",
+          "pinyin": "ma",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我们一起玩吧！",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "一",
+          "pinyin": "yì",
+          "learned": true
+        },
+        {
+          "char": "起",
+          "pinyin": "qǐ",
+          "learned": true
+        },
+        {
+          "char": "玩",
+          "pinyin": "wán",
+          "learned": true
+        },
+        {
+          "char": "吧",
+          "pinyin": "ba",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "她喜欢画和音乐。",
+      "characters": [
+        {
+          "char": "她",
+          "pinyin": "tā",
+          "learned": true
+        },
+        {
+          "char": "喜",
+          "pinyin": "xǐ",
+          "learned": true
+        },
+        {
+          "char": "欢",
+          "pinyin": "huān",
+          "learned": true
+        },
+        {
+          "char": "画",
+          "pinyin": "huà",
+          "learned": true
+        },
+        {
+          "char": "和",
+          "pinyin": "hé",
+          "learned": true
+        },
+        {
+          "char": "音",
+          "pinyin": "yīn",
+          "learned": true
+        },
+        {
+          "char": "乐",
+          "pinyin": "yuè",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "元宵节我们看花灯。",
+      "characters": [
+        {
+          "char": "元",
+          "pinyin": "yuán",
+          "learned": true
+        },
+        {
+          "char": "宵",
+          "pinyin": "xiāo",
+          "learned": true
+        },
+        {
+          "char": "节",
+          "pinyin": "jié",
+          "learned": true
+        },
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "看",
+          "pinyin": "kàn",
+          "learned": true
+        },
+        {
+          "char": "花",
+          "pinyin": "huā",
+          "learned": false
+        },
+        {
+          "char": "灯",
+          "pinyin": "dēng",
+          "learned": false
+        }
+      ]
+    },
+    {
+      "sentence": "我计划学打篮球。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "计",
+          "pinyin": "jì",
+          "learned": true
+        },
+        {
+          "char": "划",
+          "pinyin": "huà",
+          "learned": true
+        },
+        {
+          "char": "学",
+          "pinyin": "xué",
+          "learned": true
+        },
+        {
+          "char": "打",
+          "pinyin": "dǎ",
+          "learned": true
+        },
+        {
+          "char": "篮",
+          "pinyin": "lán",
+          "learned": true
+        },
+        {
+          "char": "球",
+          "pinyin": "qiú",
+          "learned": true
+        }
+      ]
+    }
+  ]
+}

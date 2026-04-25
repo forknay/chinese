@@ -502,7 +502,7 @@
         {
           "char": "步",
           "pinyin": "bù",
-          "learned": false
+          "learned": true
         }
       ]
     },
@@ -662,7 +662,7 @@
         {
           "char": "步",
           "pinyin": "bù",
-          "learned": false
+          "learned": true
         }
       ]
     }
