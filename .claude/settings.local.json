@@ -7,7 +7,16 @@
       "Bash(npx kill-port:*)",
       "Bash(netstat -ano)",
       "Bash(python3 scripts/reparse.py)",
-      "Bash(python3 scripts/build_index.py)"
+      "Bash(python3 scripts/build_index.py)",
+      "Bash(curl -sL --max-time 45 \"https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO&Freq=1000\" -o junda.html)",
+      "Bash(echo \"exit=$?\")",
+      "Bash(python -c ' *)",
+      "Bash(python peek.py)",
+      "Bash(curl -sL --max-time 60 \"https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO&Freq=2000\" -o junda2000.html)",
+      "Bash(python count.py)",
+      "Bash(python extract.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python scripts/next_characters.py --days 60)",
+      "Bash(PYTHONIOENCODING=utf-8 python gen_list.py)"
     ]
   }
 }
