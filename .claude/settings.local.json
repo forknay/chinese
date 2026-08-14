@@ -16,7 +16,8 @@
       "Bash(python count.py)",
       "Bash(python extract.py)",
       "Bash(PYTHONIOENCODING=utf-8 python scripts/next_characters.py --days 60)",
-      "Bash(PYTHONIOENCODING=utf-8 python gen_list.py)"
+      "Bash(PYTHONIOENCODING=utf-8 python gen_list.py)",
+      "Bash(python3 -c ' *)"
     ]
   }
 }
