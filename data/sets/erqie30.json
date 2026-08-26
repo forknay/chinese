@@ -1,0 +1,1275 @@
+{
+  "name": "erqie30",
+  "created": "2026-08-26",
+  "sentences": [
+    "你们今天好吗？",
+    "我喜欢吃中国菜。",
+    "他想去机场买票。",
+    "明天天气会很热。",
+    "你觉得这个好吗？",
+    "老师在教室读书。",
+    "爸爸妈妈很开心。",
+    "衣服有点儿贵了。",
+    "我们经常一起玩。",
+    "哥哥明天去医院。",
+    "现在是十点半吗？",
+    "昨天风很大。",
+    "这里的咖啡很便宜。",
+    "你有什么问题吗？",
+    "我们去饭馆吃饭吧。",
+    "他总是不吃早饭。",
+    "女朋友买东西了。",
+    "你的脚很累吗？",
+    "下午我们打篮球。",
+    "哥哥在看电影。",
+    "你喜欢听音乐吗？",
+    "这个商店不卖鞋。",
+    "不要玩电子游戏。",
+    "晚上我们去唱歌吧。",
+    "你能帮我写这个吗？",
+    "我们坐出租车回酒店。",
+    "春节我们吃什么好？",
+    "他感冒了，要休息。",
+    "你的电话多少？",
+    "见到你我很高兴。"
+  ],
+  "pinyin": [
+    "nǐ men jīn tiān hǎo ma",
+    "wǒ xǐ huan chī zhōng guó cài",
+    "tā xiǎng qù jī chǎng mǎi piào",
+    "míng tiān tiān qì huì hěn rè",
+    "nǐ jué de zhè ge hǎo ma",
+    "lǎo shī zài jiào shì dú shū",
+    "bà ba mā ma hěn kāi xīn",
+    "yī fu yǒu diǎn er guì le",
+    "wǒ men jīng cháng yī qǐ wán",
+    "gē ge míng tiān qù yī yuàn",
+    "xiàn zài shì shí diǎn bàn ma",
+    "zuó tiān fēng hěn dà",
+    "zhè lǐ de kā fēi hěn pián yi",
+    "nǐ yǒu shén me wèn tí ma",
+    "wǒ men qù fàn guǎn chī fàn ba",
+    "tā zǒng shì bù chī zǎo fàn",
+    "nǚ péng you mǎi dōng xi le",
+    "nǐ de jiǎo hěn lèi ma",
+    "xià wǔ wǒ men dǎ lán qiú",
+    "gē ge zài kàn diàn yǐng",
+    "nǐ xǐ huan tīng yīn yuè ma",
+    "zhè ge shāng diàn bù mài xié",
+    "bù yào wán diàn zǐ yóu xì",
+    "wǎn shang wǒ men qù chàng gē ba",
+    "nǐ néng bāng wǒ xiě zhè ge ma",
+    "wǒ men zuò chū zū chē huí jiǔ diàn",
+    "chūn jié wǒ men chī shén me hǎo",
+    "tā gǎn mào le yào xiū xi",
+    "nǐ de diàn huà duō shao",
+    "jiàn dào nǐ wǒ hěn gāo xìng"
+  ],
+  "cards": [
+    {
+      "sentence": "你们今天好吗？",
+      "characters": [
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "今",
+          "pinyin": "jīn",
+          "learned": true
+        },
+        {
+          "char": "天",
+          "pinyin": "tiān",
+          "learned": true
+        },
+        {
+          "char": "好",
+          "pinyin": "hǎo",
+          "learned": true
+        },
+        {
+          "char": "吗",
+          "pinyin": "ma",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我喜欢吃中国菜。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "喜",
+          "pinyin": "xǐ",
+          "learned": true
+        },
+        {
+          "char": "欢",
+          "pinyin": "huan",
+          "learned": true
+        },
+        {
+          "char": "吃",
+          "pinyin": "chī",
+          "learned": true
+        },
+        {
+          "char": "中",
+          "pinyin": "zhōng",
+          "learned": true
+        },
+        {
+          "char": "国",
+          "pinyin": "guó",
+          "learned": true
+        },
+        {
+          "char": "菜",
+          "pinyin": "cài",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "他想去机场买票。",
+      "characters": [
+        {
+          "char": "他",
+          "pinyin": "tā",
+          "learned": true
+        },
+        {
+          "char": "想",
+          "pinyin": "xiǎng",
+          "learned": true
+        },
+        {
+          "char": "去",
+          "pinyin": "qù",
+          "learned": true
+        },
+        {
+          "char": "机",
+          "pinyin": "jī",
+          "learned": true
+        },
+        {
+          "char": "场",
+          "pinyin": "chǎng",
+          "learned": true
+        },
+        {
+          "char": "买",
+          "pinyin": "mǎi",
+          "learned": true
+        },
+        {
+          "char": "票",
+          "pinyin": "piào",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "明天天气会很热。",
+      "characters": [
+        {
+          "char": "明",
+          "pinyin": "míng",
+          "learned": true
+        },
+        {
+          "char": "天",
+          "pinyin": "tiān",
+          "learned": true
+        },
+        {
+          "char": "天",
+          "pinyin": "tiān",
+          "learned": true
+        },
+        {
+          "char": "气",
+          "pinyin": "qì",
+          "learned": true
+        },
+        {
+          "char": "会",
+          "pinyin": "huì",
+          "learned": true
+        },
+        {
+          "char": "很",
+          "pinyin": "hěn",
+          "learned": true
+        },
+        {
+          "char": "热",
+          "pinyin": "rè",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "你觉得这个好吗？",
+      "characters": [
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "learned": true
+        },
+        {
+          "char": "觉",
+          "pinyin": "jué",
+          "learned": true
+        },
+        {
+          "char": "得",
+          "pinyin": "de",
+          "learned": true
+        },
+        {
+          "char": "这",
+          "pinyin": "zhè",
+          "learned": true
+        },
+        {
+          "char": "个",
+          "pinyin": "ge",
+          "learned": true
+        },
+        {
+          "char": "好",
+          "pinyin": "hǎo",
+          "learned": true
+        },
+        {
+          "char": "吗",
+          "pinyin": "ma",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "老师在教室读书。",
+      "characters": [
+        {
+          "char": "老",
+          "pinyin": "lǎo",
+          "learned": true
+        },
+        {
+          "char": "师",
+          "pinyin": "shī",
+          "learned": true
+        },
+        {
+          "char": "在",
+          "pinyin": "zài",
+          "learned": true
+        },
+        {
+          "char": "教",
+          "pinyin": "jiào",
+          "learned": true
+        },
+        {
+          "char": "室",
+          "pinyin": "shì",
+          "learned": true
+        },
+        {
+          "char": "读",
+          "pinyin": "dú",
+          "learned": true
+        },
+        {
+          "char": "书",
+          "pinyin": "shū",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "爸爸妈妈很开心。",
+      "characters": [
+        {
+          "char": "爸",
+          "pinyin": "bà",
+          "learned": true
+        },
+        {
+          "char": "爸",
+          "pinyin": "ba",
+          "learned": true
+        },
+        {
+          "char": "妈",
+          "pinyin": "mā",
+          "learned": true
+        },
+        {
+          "char": "妈",
+          "pinyin": "ma",
+          "learned": true
+        },
+        {
+          "char": "很",
+          "pinyin": "hěn",
+          "learned": true
+        },
+        {
+          "char": "开",
+          "pinyin": "kāi",
+          "learned": true
+        },
+        {
+          "char": "心",
+          "pinyin": "xīn",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "衣服有点儿贵了。",
+      "characters": [
+        {
+          "char": "衣",
+          "pinyin": "yī",
+          "learned": true
+        },
+        {
+          "char": "服",
+          "pinyin": "fu",
+          "learned": true
+        },
+        {
+          "char": "有",
+          "pinyin": "yǒu",
+          "learned": true
+        },
+        {
+          "char": "点",
+          "pinyin": "diǎn",
+          "learned": true
+        },
+        {
+          "char": "儿",
+          "pinyin": "er",
+          "learned": true
+        },
+        {
+          "char": "贵",
+          "pinyin": "guì",
+          "learned": true
+        },
+        {
+          "char": "了",
+          "pinyin": "le",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我们经常一起玩。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "经",
+          "pinyin": "jīng",
+          "learned": true
+        },
+        {
+          "char": "常",
+          "pinyin": "cháng",
+          "learned": true
+        },
+        {
+          "char": "一",
+          "pinyin": "yī",
+          "learned": true
+        },
+        {
+          "char": "起",
+          "pinyin": "qǐ",
+          "learned": true
+        },
+        {
+          "char": "玩",
+          "pinyin": "wán",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "哥哥明天去医院。",
+      "characters": [
+        {
+          "char": "哥",
+          "pinyin": "gē",
+          "learned": true
+        },
+        {
+          "char": "哥",
+          "pinyin": "ge",
+          "learned": true
+        },
+        {
+          "char": "明",
+          "pinyin": "míng",
+          "learned": true
+        },
+        {
+          "char": "天",
+          "pinyin": "tiān",
+          "learned": true
+        },
+        {
+          "char": "去",
+          "pinyin": "qù",
+          "learned": true
+        },
+        {
+          "char": "医",
+          "pinyin": "yī",
+          "learned": true
+        },
+        {
+          "char": "院",
+          "pinyin": "yuàn",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "现在是十点半吗？",
+      "characters": [
+        {
+          "char": "现",
+          "pinyin": "xiàn",
+          "learned": true
+        },
+        {
+          "char": "在",
+          "pinyin": "zài",
+          "learned": true
+        },
+        {
+          "char": "是",
+          "pinyin": "shì",
+          "learned": true
+        },
+        {
+          "char": "十",
+          "pinyin": "shí",
+          "learned": true
+        },
+        {
+          "char": "点",
+          "pinyin": "diǎn",
+          "learned": true
+        },
+        {
+          "char": "半",
+          "pinyin": "bàn",
+          "learned": true
+        },
+        {
+          "char": "吗",
+          "pinyin": "ma",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "昨天风很大。",
+      "characters": [
+        {
+          "char": "昨",
+          "pinyin": "zuó",
+          "learned": true
+        },
+        {
+          "char": "天",
+          "pinyin": "tiān",
+          "learned": true
+        },
+        {
+          "char": "风",
+          "pinyin": "fēng",
+          "learned": true
+        },
+        {
+          "char": "很",
+          "pinyin": "hěn",
+          "learned": true
+        },
+        {
+          "char": "大",
+          "pinyin": "dà",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "这里的咖啡很便宜。",
+      "characters": [
+        {
+          "char": "这",
+          "pinyin": "zhè",
+          "learned": true
+        },
+        {
+          "char": "里",
+          "pinyin": "lǐ",
+          "learned": true
+        },
+        {
+          "char": "的",
+          "pinyin": "de",
+          "learned": true
+        },
+        {
+          "char": "咖",
+          "pinyin": "kā",
+          "learned": true
+        },
+        {
+          "char": "啡",
+          "pinyin": "fēi",
+          "learned": true
+        },
+        {
+          "char": "很",
+          "pinyin": "hěn",
+          "learned": true
+        },
+        {
+          "char": "便",
+          "pinyin": "pián",
+          "learned": true
+        },
+        {
+          "char": "宜",
+          "pinyin": "yi",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "你有什么问题吗？",
+      "characters": [
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "learned": true
+        },
+        {
+          "char": "有",
+          "pinyin": "yǒu",
+          "learned": true
+        },
+        {
+          "char": "什",
+          "pinyin": "shén",
+          "learned": true
+        },
+        {
+          "char": "么",
+          "pinyin": "me",
+          "learned": true
+        },
+        {
+          "char": "问",
+          "pinyin": "wèn",
+          "learned": true
+        },
+        {
+          "char": "题",
+          "pinyin": "tí",
+          "learned": true
+        },
+        {
+          "char": "吗",
+          "pinyin": "ma",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我们去饭馆吃饭吧。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "去",
+          "pinyin": "qù",
+          "learned": true
+        },
+        {
+          "char": "饭",
+          "pinyin": "fàn",
+          "learned": true
+        },
+        {
+          "char": "馆",
+          "pinyin": "guǎn",
+          "learned": true
+        },
+        {
+          "char": "吃",
+          "pinyin": "chī",
+          "learned": true
+        },
+        {
+          "char": "饭",
+          "pinyin": "fàn",
+          "learned": true
+        },
+        {
+          "char": "吧",
+          "pinyin": "ba",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "他总是不吃早饭。",
+      "characters": [
+        {
+          "char": "他",
+          "pinyin": "tā",
+          "learned": true
+        },
+        {
+          "char": "总",
+          "pinyin": "zǒng",
+          "learned": true
+        },
+        {
+          "char": "是",
+          "pinyin": "shì",
+          "learned": true
+        },
+        {
+          "char": "不",
+          "pinyin": "bù",
+          "learned": true
+        },
+        {
+          "char": "吃",
+          "pinyin": "chī",
+          "learned": true
+        },
+        {
+          "char": "早",
+          "pinyin": "zǎo",
+          "learned": true
+        },
+        {
+          "char": "饭",
+          "pinyin": "fàn",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "女朋友买东西了。",
+      "characters": [
+        {
+          "char": "女",
+          "pinyin": "nǚ",
+          "learned": true
+        },
+        {
+          "char": "朋",
+          "pinyin": "péng",
+          "learned": true
+        },
+        {
+          "char": "友",
+          "pinyin": "you",
+          "learned": true
+        },
+        {
+          "char": "买",
+          "pinyin": "mǎi",
+          "learned": true
+        },
+        {
+          "char": "东",
+          "pinyin": "dōng",
+          "learned": true
+        },
+        {
+          "char": "西",
+          "pinyin": "xi",
+          "learned": true
+        },
+        {
+          "char": "了",
+          "pinyin": "le",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "你的脚很累吗？",
+      "characters": [
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "learned": true
+        },
+        {
+          "char": "的",
+          "pinyin": "de",
+          "learned": true
+        },
+        {
+          "char": "脚",
+          "pinyin": "jiǎo",
+          "learned": true
+        },
+        {
+          "char": "很",
+          "pinyin": "hěn",
+          "learned": true
+        },
+        {
+          "char": "累",
+          "pinyin": "lèi",
+          "learned": true
+        },
+        {
+          "char": "吗",
+          "pinyin": "ma",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "下午我们打篮球。",
+      "characters": [
+        {
+          "char": "下",
+          "pinyin": "xià",
+          "learned": true
+        },
+        {
+          "char": "午",
+          "pinyin": "wǔ",
+          "learned": true
+        },
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "打",
+          "pinyin": "dǎ",
+          "learned": true
+        },
+        {
+          "char": "篮",
+          "pinyin": "lán",
+          "learned": true
+        },
+        {
+          "char": "球",
+          "pinyin": "qiú",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "哥哥在看电影。",
+      "characters": [
+        {
+          "char": "哥",
+          "pinyin": "gē",
+          "learned": true
+        },
+        {
+          "char": "哥",
+          "pinyin": "ge",
+          "learned": true
+        },
+        {
+          "char": "在",
+          "pinyin": "zài",
+          "learned": true
+        },
+        {
+          "char": "看",
+          "pinyin": "kàn",
+          "learned": true
+        },
+        {
+          "char": "电",
+          "pinyin": "diàn",
+          "learned": true
+        },
+        {
+          "char": "影",
+          "pinyin": "yǐng",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "你喜欢听音乐吗？",
+      "characters": [
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "learned": true
+        },
+        {
+          "char": "喜",
+          "pinyin": "xǐ",
+          "learned": true
+        },
+        {
+          "char": "欢",
+          "pinyin": "huan",
+          "learned": true
+        },
+        {
+          "char": "听",
+          "pinyin": "tīng",
+          "learned": true
+        },
+        {
+          "char": "音",
+          "pinyin": "yīn",
+          "learned": true
+        },
+        {
+          "char": "乐",
+          "pinyin": "yuè",
+          "learned": true
+        },
+        {
+          "char": "吗",
+          "pinyin": "ma",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "这个商店不卖鞋。",
+      "characters": [
+        {
+          "char": "这",
+          "pinyin": "zhè",
+          "learned": true
+        },
+        {
+          "char": "个",
+          "pinyin": "ge",
+          "learned": true
+        },
+        {
+          "char": "商",
+          "pinyin": "shāng",
+          "learned": true
+        },
+        {
+          "char": "店",
+          "pinyin": "diàn",
+          "learned": true
+        },
+        {
+          "char": "不",
+          "pinyin": "bù",
+          "learned": true
+        },
+        {
+          "char": "卖",
+          "pinyin": "mài",
+          "learned": true
+        },
+        {
+          "char": "鞋",
+          "pinyin": "xié",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "不要玩电子游戏。",
+      "characters": [
+        {
+          "char": "不",
+          "pinyin": "bù",
+          "learned": true
+        },
+        {
+          "char": "要",
+          "pinyin": "yào",
+          "learned": true
+        },
+        {
+          "char": "玩",
+          "pinyin": "wán",
+          "learned": true
+        },
+        {
+          "char": "电",
+          "pinyin": "diàn",
+          "learned": true
+        },
+        {
+          "char": "子",
+          "pinyin": "zǐ",
+          "learned": true
+        },
+        {
+          "char": "游",
+          "pinyin": "yóu",
+          "learned": true
+        },
+        {
+          "char": "戏",
+          "pinyin": "xì",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "晚上我们去唱歌吧。",
+      "characters": [
+        {
+          "char": "晚",
+          "pinyin": "wǎn",
+          "learned": true
+        },
+        {
+          "char": "上",
+          "pinyin": "shang",
+          "learned": true
+        },
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "去",
+          "pinyin": "qù",
+          "learned": true
+        },
+        {
+          "char": "唱",
+          "pinyin": "chàng",
+          "learned": true
+        },
+        {
+          "char": "歌",
+          "pinyin": "gē",
+          "learned": true
+        },
+        {
+          "char": "吧",
+          "pinyin": "ba",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "你能帮我写这个吗？",
+      "characters": [
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "learned": true
+        },
+        {
+          "char": "能",
+          "pinyin": "néng",
+          "learned": true
+        },
+        {
+          "char": "帮",
+          "pinyin": "bāng",
+          "learned": true
+        },
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "写",
+          "pinyin": "xiě",
+          "learned": true
+        },
+        {
+          "char": "这",
+          "pinyin": "zhè",
+          "learned": true
+        },
+        {
+          "char": "个",
+          "pinyin": "ge",
+          "learned": true
+        },
+        {
+          "char": "吗",
+          "pinyin": "ma",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "我们坐出租车回酒店。",
+      "characters": [
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "坐",
+          "pinyin": "zuò",
+          "learned": true
+        },
+        {
+          "char": "出",
+          "pinyin": "chū",
+          "learned": true
+        },
+        {
+          "char": "租",
+          "pinyin": "zū",
+          "learned": true
+        },
+        {
+          "char": "车",
+          "pinyin": "chē",
+          "learned": true
+        },
+        {
+          "char": "回",
+          "pinyin": "huí",
+          "learned": true
+        },
+        {
+          "char": "酒",
+          "pinyin": "jiǔ",
+          "learned": true
+        },
+        {
+          "char": "店",
+          "pinyin": "diàn",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "春节我们吃什么好？",
+      "characters": [
+        {
+          "char": "春",
+          "pinyin": "chūn",
+          "learned": true
+        },
+        {
+          "char": "节",
+          "pinyin": "jié",
+          "learned": true
+        },
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "们",
+          "pinyin": "men",
+          "learned": true
+        },
+        {
+          "char": "吃",
+          "pinyin": "chī",
+          "learned": true
+        },
+        {
+          "char": "什",
+          "pinyin": "shén",
+          "learned": true
+        },
+        {
+          "char": "么",
+          "pinyin": "me",
+          "learned": true
+        },
+        {
+          "char": "好",
+          "pinyin": "hǎo",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "他感冒了，要休息。",
+      "characters": [
+        {
+          "char": "他",
+          "pinyin": "tā",
+          "learned": true
+        },
+        {
+          "char": "感",
+          "pinyin": "gǎn",
+          "learned": true
+        },
+        {
+          "char": "冒",
+          "pinyin": "mào",
+          "learned": true
+        },
+        {
+          "char": "了",
+          "pinyin": "le",
+          "learned": true
+        },
+        {
+          "char": "要",
+          "pinyin": "yào",
+          "learned": true
+        },
+        {
+          "char": "休",
+          "pinyin": "xiū",
+          "learned": true
+        },
+        {
+          "char": "息",
+          "pinyin": "xi",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "你的电话多少？",
+      "characters": [
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "learned": true
+        },
+        {
+          "char": "的",
+          "pinyin": "de",
+          "learned": true
+        },
+        {
+          "char": "电",
+          "pinyin": "diàn",
+          "learned": true
+        },
+        {
+          "char": "话",
+          "pinyin": "huà",
+          "learned": true
+        },
+        {
+          "char": "多",
+          "pinyin": "duō",
+          "learned": true
+        },
+        {
+          "char": "少",
+          "pinyin": "shao",
+          "learned": true
+        }
+      ]
+    },
+    {
+      "sentence": "见到你我很高兴。",
+      "characters": [
+        {
+          "char": "见",
+          "pinyin": "jiàn",
+          "learned": true
+        },
+        {
+          "char": "到",
+          "pinyin": "dào",
+          "learned": true
+        },
+        {
+          "char": "你",
+          "pinyin": "nǐ",
+          "learned": true
+        },
+        {
+          "char": "我",
+          "pinyin": "wǒ",
+          "learned": true
+        },
+        {
+          "char": "很",
+          "pinyin": "hěn",
+          "learned": true
+        },
+        {
+          "char": "高",
+          "pinyin": "gāo",
+          "learned": true
+        },
+        {
+          "char": "兴",
+          "pinyin": "xìng",
+          "learned": true
+        }
+      ]
+    }
+  ]
+}
